@@ -2,9 +2,9 @@
 
 **`Desenvolvedor Intusiasta`**
 
-💻 Entusiasta de tecnologia e programação.
-🔧 Tento automatizar tudo que é chato no meu dia a dia usando tecnologia.
-🚀 Explorando novas ferramentas e aprendendo sempre.
+💻 Entusiasta de tecnologia e programação.</br>
+🔧 Tento automatizar tudo que é chato no meu dia a dia usando tecnologia.</br>
+🚀 Explorando novas ferramentas e aprendendo sempre.</br>
 
 
 
