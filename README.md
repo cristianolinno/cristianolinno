@@ -2,7 +2,9 @@
 
 **`Desenvolvedor Intusiasta`**
 
-Me chamo Cristiano Lino, apaixonado por tecnologia e programação.
+💻 Entusiasta de tecnologia e programação.
+🔧 Tento automatizar tudo que é chato no meu dia a dia usando tecnologia.
+🚀 Explorando novas ferramentas e aprendendo sempre.
 
 
 
